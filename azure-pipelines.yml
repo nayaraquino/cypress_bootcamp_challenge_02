@@ -20,7 +20,7 @@ steps:
 - script: npm ci
   displayName: 'npm install'
 
-- script: npm run cy:run:electron
+- script: npm cypress run
   displayName: 'Run tests on Electron'
   continueOnError: true
 
