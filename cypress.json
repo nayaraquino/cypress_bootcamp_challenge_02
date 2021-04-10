@@ -1,0 +1,11 @@
+{
+    "$schema": "https://raw.githubusercontent.com/cypress-io/cypress/develop/cli/schema/cypress.schema.json",
+    "baseUrl": "https://demo.realworld.io/#/",
+    "experimentalSourceRewriting": false,
+    "WatchForFileChanges": true,
+    "user": {
+        "email": "nayara1@nayara.com",
+        "password": "12345678"
+    },
+    "apiUrl": "https://conduit.productionready.io/api/"
+}
