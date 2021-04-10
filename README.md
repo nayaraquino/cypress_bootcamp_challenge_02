@@ -1,1 +1,3 @@
-# cypress_bootcamp_challenge_02
+### Agilizei Bootcamp - Challenge 02
+
+Projeto desenvolvido para o desafio do segundo módulo do Agilizei Bootcamp.
