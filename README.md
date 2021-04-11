@@ -31,8 +31,9 @@ Basta selecionar a spec que deseja executar.
  ![register](https://user-images.githubusercontent.com/71460952/114318927-85eca980-9ae5-11eb-9845-c076f5e3d6e4.gif)
 
  
- #### Teste 2 - Login
- a
+ #### Teste 2 - Login do Usuário
+ ![login](https://user-images.githubusercontent.com/71460952/114320891-89386300-9aee-11eb-8194-89c40cf486a2.gif)
+
  
  #### Teste 3 - Publicando um Post
  ![articles](https://user-images.githubusercontent.com/71460952/114318957-a6b4ff00-9ae5-11eb-80a7-3bf6a59b36ce.gif)
