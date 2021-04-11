@@ -1,15 +1,8 @@
 
 # Teste com Cypress + CI em Azure DevOps
-## Agilizei Bootcamp - Challenge 02
-
-## :bookmark: Descrição do Projeto
+### Agilizei Bootcamp - Challenge 02
+---
 Projeto desenvolvido para o desafio do segundo módulo do Agilizei Bootcamp.
-
-
-## :checkered_flag: Como Executar o Projeto
-> Background: Pasta do projeto aberta no Cypress.
-Basta esolher a spec que deseja executar.
-![running test](https://user-images.githubusercontent.com/71460952/114319822-7ec79a80-9ae9-11eb-951e-66e0c20e730a.gif)
 
 ## :books: Conceitos Apresentados no Módulo
 - Page Objects
@@ -24,8 +17,10 @@ Basta esolher a spec que deseja executar.
 - [JavaScript]([https://developer.mozilla.org/pt-BR/docs/Web/JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript))
 
 
-## :link: Pipeline no Azure Devops
-https://elvercioneto.visualstudio.com/Agilizei%20Bootcamp%20N%C3%ADvel%202/_build?definitionId=3
+## :checkered_flag: Como Executar o Projeto
+> Background: Pasta do projeto aberta no Cypress.
+Basta esolher a spec que deseja executar.
+![running test](https://user-images.githubusercontent.com/71460952/114319822-7ec79a80-9ae9-11eb-951e-66e0c20e730a.gif)
 
 
 ## ▶️ Testes em Execução
@@ -39,6 +34,9 @@ https://elvercioneto.visualstudio.com/Agilizei%20Bootcamp%20N%C3%ADvel%202/_buil
  #### Teste 3 - Publicando um Post
  ![articles](https://user-images.githubusercontent.com/71460952/114318957-a6b4ff00-9ae5-11eb-80a7-3bf6a59b36ce.gif)
 
+
+## :link: Pipeline no Azure Devops
+https://elvercioneto.visualstudio.com/Agilizei%20Bootcamp%20N%C3%ADvel%202/_build?definitionId=3
 
 
 ## :bookmark_tabs: Resultado dos Testes
