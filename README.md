@@ -47,7 +47,7 @@ https://elvercioneto.visualstudio.com/Agilizei%20Bootcamp%20N%C3%ADvel%202/_buil
 ![image](https://user-images.githubusercontent.com/71460952/114286390-a577c980-9a34-11eb-9174-f6dbcb187131.png)
 
 ---
-## :woman_technologist: Autora
+##
 Feito com ❤️ por <a href="https://www.linkedin.com/in/nayaraquino/">Nayara Aquino</a> :wave: Entre em contato!
 
 [![Github](https://img.shields.io/badge/-Github-595D60?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
