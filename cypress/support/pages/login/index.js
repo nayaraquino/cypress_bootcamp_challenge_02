@@ -9,11 +9,11 @@ class Login{
         cy.get(el.inputEmail).type(Cypress.config().user.email);
         cy.get(el.inputPassword).type(Cypress.config().user.password);
     }
-    submeterLoginForm(){
+    submitLoginForm(){
         cy.get(Routes);
         cy.get(el.buttonLogin).click();
     }
-    verifySuccessfulLogin(){
+    verifySuccessfullyLogin(){
         cy.wait('@POSTUsersLogin').then((postUsersLogin) => {
             expect(postUsersLogin.response.statusCode).to.eq(200)
         });

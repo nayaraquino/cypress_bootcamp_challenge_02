@@ -15,7 +15,7 @@ class Register {
         cy.get(Routes);
         cy.get(el.buttonSubmit).click();
     }
-    verifyLoginWasSucessed(){
+    verifySuccessfullyLogin(){
         cy.wait('@POSTUsers').then((postUsers) => {
             expect(postUsers.response.statusCode).to.eq(200)
         });

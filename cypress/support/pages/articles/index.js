@@ -12,20 +12,18 @@ class Articles {
         cy.get(el.textareaParagraph).type(faker.lorem.paragraph());
         cy.get(el.inputTag).type('cypress');
     }
-    submeterPost(){
+    submitPost(){
         cy.get(Routes);
         cy.get(el.buttonUpPost).click();   
     }
 
-    verifyPostWasRegistred(){
+    verifySuccessfullyRegistredPost(){
         cy.wait('@POSTArticles').then((postArticlesResponse) => {
             expect(postArticlesResponse.response.statusCode).to.eq(200)
         });
-
         cy.wait('@GETArticlesTitle').then((getArticlesTitleResponse) => {
             expect(getArticlesTitleResponse.response.statusCode).to.eq(200)
         });
-
         cy.wait('@GETArticlesTitleComments').then((getArticlesTitleCommentsResponse) => {
             expect(getArticlesTitleCommentsResponse.response.statusCode).to.eq(200)
         });

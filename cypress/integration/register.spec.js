@@ -9,6 +9,6 @@ context('Register', () => {
         register.accessPage()
         register.fillForm()
         register.submitPost()
-        register.verifyLoginWasSucessed()
+        register.verifySuccessfullyLogin()
     });
 });

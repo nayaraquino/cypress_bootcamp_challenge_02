@@ -11,7 +11,7 @@ context('Posts', () => {
     }); 
     it('Creates new post', () => {
         articles.fillForm()
-        articles.submeterPost()
-        articles.verifyPostWasRegistred()    
+        articles.submitPost()
+        articles.verifySuccessfullyRegistredPost()    
     });
 })

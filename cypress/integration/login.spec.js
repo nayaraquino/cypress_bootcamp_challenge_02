@@ -8,7 +8,7 @@ context('Realize login', { browser: '!firefox' }, () => {
         cy.get(Routes);
         login.accessPage()
         login.realizeLogin()
-        login.submeterLoginForm()
-        login.verifySuccessfulLogin
+        login.submitLoginForm()
+        login.verifySuccessfullyLogin()
     });
 });
