@@ -19,7 +19,10 @@ Projeto desenvolvido para o desafio do segundo módulo do Agilizei Bootcamp.
 
 ## :checkered_flag: Como Executar o Projeto
 > Background: Pasta do projeto aberta no Cypress.
+
 Basta esolher a spec que deseja executar.
+
+
 ![running test](https://user-images.githubusercontent.com/71460952/114319822-7ec79a80-9ae9-11eb-951e-66e0c20e730a.gif)
 
 
