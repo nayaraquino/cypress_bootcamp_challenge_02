@@ -46,7 +46,7 @@ https://elvercioneto.visualstudio.com/Agilizei%20Bootcamp%20N%C3%ADvel%202/_buil
 ## :bookmark_tabs: Resultado dos Testes
 ![image](https://user-images.githubusercontent.com/71460952/114286390-a577c980-9a34-11eb-9174-f6dbcb187131.png)
 
----
+
 ##
 Feito com ❤️ por <a href="https://www.linkedin.com/in/nayaraquino/">Nayara Aquino</a> :wave: Entre em contato!
 
