@@ -20,7 +20,7 @@ Projeto desenvolvido para o desafio do segundo módulo do Agilizei Bootcamp.
 ## :checkered_flag: Como Executar o Projeto
 ```bash
 # Clone este repositório
-$ git clone https://github.com/nayaraquino/cypress_bootcamp_challenge_01.git
+$ git clone https://github.com/nayaraquino/cypress_bootcamp_challenge_02.git
 ```
 A execução pode ser feita através da linha de comando ou do próprio framework.
 - Através da linha de comando:
